@@ -35,4 +35,8 @@ The “Total Fare by City Type” multiple-line chart provides further informati
 
 ### Summary: 
 
-PyBer has a higher rate in ridesharing clients in urban cities. There are more drivers in urban cities then in rural and suburban. Drivers in rural cities earn more the drivers in urban cities. This could discourage drivers from wanting to work in urban or suburban cities. Overall, PyBer ridesharing services differ in rural, urban and suburban cities given the fares, rides and drivers. This data shows that there is a higher demand for PyBer’s ridesharing services in urban cities.
+- PyBer has a higher rate in ridesharing clients in urban cities. 
+- There are more drivers in urban cities then in rural and suburban. 
+- Drivers in rural cities earn more then drivers in urban cities. This could discourage drivers from wanting to work in urban or 
+  suburban cities. 
+- Overall, PyBer ridesharing services differ in rural, urban and suburban cities given the fares, rides and drivers. This data shows that there is a higher demand for PyBer’s     ridesharing services in urban cities.
